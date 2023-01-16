@@ -8,11 +8,11 @@ This tool was made with the aim of learning , if you would wanted to know how si
 2-Express message decryption .  
 3-Encryption of text files .  
 4-Decryption of text files .  
-#NOTE ; It only works on text files...
+NOTE ; It only works on text files...
 
 # Write by :
  Mohaned Mohammed Sherhan 
 
 # My accounts on :
-Insagram:https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y
+Insagram:https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y    
 twitter:https://twitter.com/MrX48915521?t=rHyMHB151bMLMsc94DkKvg&s=09
