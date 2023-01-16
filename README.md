@@ -4,7 +4,7 @@
 This tool was made with the aim of learning , if you would wanted to know how simple encryption is done in python
  without using any external library to do this encryption.
 
-1-Express message encryption .
+1-Express message encryption .\n
 2-Express message decryption .
 3-Encryption of text files .
 4-Decryption of text files .
