@@ -10,7 +10,7 @@ This tool was made with the aim of learning , if you would wanted to know how si
 4-Decryption of text files .  
 NOTE ; It only works on text files...
 
-# Write by :
+# Written by :
  Mohaned Mohammed Sherhan 
 
 # My accounts on :
