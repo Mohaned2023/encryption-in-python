@@ -1,4 +1,4 @@
-# Writing by Mohaned Mohammed Sherhan or The LEGEND
+# Written by Mohaned Mohammed Sherhan or The LEGEND
 
 # import time 
 import os
